@@ -1,0 +1,14 @@
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+li{
+
+    color: #046cb7;
+}
